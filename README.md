@@ -3,6 +3,8 @@
 The purpose of this project is to find the correlations between specifications of cellphone and its SAR values. 
 The below flow chart shows steps taken in the successful completion of the project.
 
+![](a.png)
+
 ## System Requirement: 
 All the scripts were written in Jupyter Notebook for better visualization.You can download Anaconda Navigator/Jupyter Notebook or any software supporting python scripting. All the scripting is done and run in Python 3.6 enviroment.
 ## Library Requirement:
