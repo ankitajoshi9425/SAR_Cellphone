@@ -16,9 +16,9 @@ Install request,BeautifulSoup libraries.This script will give you all the celpho
 ### Script 2 (Batch Data Processing 1)
 This script takes output csv file of script 1 as input and does batch data processing. It goes on each and every link website(webpage) and collect all the specifications of cellphone and store it in tabular form in a new csv file.
 'https://www.rfsafe.com/'
-### Script3 (Links for Cellphone-Website 2)
+### Script 3 (Links for Cellphone-Website 2)
 Install Selenium and download firefox webdriver (geckodriver) and add the 'geckodriver' to the path(C:\User\..). This script will give you all the celphone model links.
-### Script 4(Batch Data Processing 2)
+### Script 4 (Batch Data Processing 2)
 This script takes output csv file of script 3 as input and does batch data processing. It goes on each and every link website(webpage) and collect all the specifications of cellphone and store it in tabular form in a new csv file.
 ## Analysis & Results
 ### Script 5 (Specifications of cellphone VS SAR)
