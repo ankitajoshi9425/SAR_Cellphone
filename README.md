@@ -8,7 +8,7 @@ The below flow chart shows steps taken in the successful completion of the proje
 ## System Requirement: 
 All the scripts were written in Jupyter Notebook for better visualization.You can download Anaconda Navigator/Jupyter Notebook or any software supporting python scripting. All the scripting is done and run in Python 3.6 enviroment.
 ## Library Requirement:
-Try to load all the library for getting started with script. If any of the library is absent, download those using pip install/conda install in either powershell/command prompt/anaconda prompt.
+Load all the library for getting started with script. If any of the library is absent, download those using pip install/conda install in either powershell/command prompt/anaconda prompt.
 ## File Lists:
 ### Script1 (Links for Cellphone-Website 1) 
 Install request,BeautifulSoup libraries.This script will give you all the celphone model links.
