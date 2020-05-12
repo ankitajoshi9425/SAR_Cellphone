@@ -1,7 +1,7 @@
 # SAR_Cellphone
 ## Project Name : Modeling Radiation Emitted from Cellphones
 The purpose of this project is to find the correlations between specifications of cellphone and its SAR values. 
-The below flow chart shows steps taken in the successful completion of the project.
+The below chart shows steps taken in the successful completion of the project.
 
 ![](a.png)
 
