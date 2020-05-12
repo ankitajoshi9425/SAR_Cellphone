@@ -20,7 +20,7 @@ This script takes output csv file of script 1 as input and does batch data proce
 Install Selenium and download firefox webdriver (geckodriver) and add the 'geckodriver' to the path(C:\User\..). This script will give you all the celphone model links.
 ### Script 4(Batch Data Processing 2)
 This script takes output csv file of script 3 as input and does batch data processing. It goes on each and every link website(webpage) and collect all the specifications of cellphone and store it in tabular form in a new csv file.
-## Analysis Results
+## Analysis & Results
 ### Script 5 (Specifications of cellphone VS SAR)
 After data cleaning an modeling from two above source, a sample of 200 datapoints were taken for analysis. This script gives correlation, OLS, Garient boosting algorithm, Ridge, Lasso, ElasticNet results for specifications of cellphone vs SAR value.
 ### Script 6 (Frequency & Power VS SAR) 
