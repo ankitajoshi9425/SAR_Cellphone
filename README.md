@@ -6,7 +6,7 @@ The below chart shows steps taken in the successful completion of the project.
 ![](a.png)
 
 ## System Requirement: 
-All the scripts were written in Jupyter Notebook for better visualization.You can download Anaconda Navigator/Jupyter Notebook or any software supporting python scripting. All the scripting is done and run in Python 3.6 enviroment.
+All the scripts were written in Jupyter Notebook for good visualization.Download Anaconda Navigator/Jupyter Notebook or any software supporting python scripting. All the scripting is done and run in Python 3.6 enviroment.
 ## Library Requirement:
 Load all the library for getting started with script. If any of the library is absent, download those using pip install/conda install in either powershell/command prompt/anaconda prompt.
 ## Data Collection:
